@@ -10,7 +10,7 @@ This project predicts Bitcoin price trends using Python and Machine Learning tec
  Provides future price forecasts
  Easy-to-run Jupyter Notebook/Python script
 
-## 🛠️ Tech Stack
+## Tech Stack
 Python 
 Pandas, NumPy (Data preprocessing)
 Scikit-learn / TensorFlow / Keras (ML models)
